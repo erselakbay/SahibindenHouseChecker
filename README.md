@@ -28,6 +28,7 @@ Thats All. The program will automatically find new house listings that meet your
 Note: All installations related to python, selenium, firebase, pyrebase must be completed for the program to work.
 
 Note: If anyone is getting a "smtplib.SMTPAuthenticationError" try the following steps:
+
  https://www.youtube.com/watch?v=D-NYmDWiFjU
  
 !! Note this makes your email vulnerable to attacks and I do not stand liable for any loss or damage. !!
