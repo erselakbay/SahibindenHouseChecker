@@ -29,6 +29,7 @@ Note: All installations related to python, selenium, firebase, pyrebase must be 
 
 Note: If anyone is getting a "smtplib.SMTPAuthenticationError" try the following steps:
  https://www.youtube.com/watch?v=D-NYmDWiFjU
+ 
 !! Note this makes your email vulnerable to attacks and I do not stand liable for any loss or damage. !!
 
 
@@ -47,7 +48,9 @@ Hepsi bu kadar. Program, kriterlerinize uygun yeni ev ilanlarını otomatik olar
 Not: Programın çalışması için python, selenium, firebase ve pryrebase ile ilgili tüm kurulumların tamamlanması gerekir.
 
 Not: Eğer "smtplib.SMTPAuthenticationError" alıyorsanız aşağıdaki adımları deneyin:
+
  https://www.youtube.com/watch?v=D-NYmDWiFjU
+ 
 !! Bunun e-postanızı saldırılara karşı savunmasız hale getirdiğini ve herhangi bir kayıp veya hasardan sorumlu olmadığımı unutmayın. !!
 
 ## Details About Firebase Database
