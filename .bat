@@ -1,0 +1,1 @@
+python sahibinden.py "https://www.sahibinden.com/satilik/istanbul?sorting=date_desc" "Ahmet" "byerselakbay@gmail.com" "ahmetdanisan@gmail.com" "sifre12345" pause
